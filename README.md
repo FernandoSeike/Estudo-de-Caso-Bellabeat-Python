@@ -45,7 +45,7 @@ Os dados foram agregados (`groupby`) para encontrar padrões consistentes no vol
 ### 5. Partilhar (Share)
 Para comunicar estas descobertas de forma clara à equipa executiva, foi desenvolvida uma visualização de dados com recurso às bibliotecas `Matplotlib` e `Seaborn`.
 
-> **[Nota para o visualizador do repositório: O gráfico gerado encontra-se no ficheiro `.ipynb` ou na imagem abaixo]**
+> **![Gráfico Média de Passos](output.png)**
 > 
 > **
 
