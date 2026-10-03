@@ -49,7 +49,6 @@ Para comunicar estas descobertas de forma clara à equipa executiva, foi desenvo
 
 A visualização em gráfico de barras evidencia claramente a disparidade entre a terça-feira e os restantes dias da semana, validando a necessidade de uma intervenção de produto.
 
-A visualização em gráfico de barras evidencia claramente a disparidade entre a terça-feira e os restantes dias da semana, validando a necessidade de uma intervenção de produto.
 
 ### 6. Agir (Act)
 Com base na análise técnica, as seguintes recomendações estratégicas foram propostas para o ecossistema Bellabeat, com foco no relógio **Time**:
