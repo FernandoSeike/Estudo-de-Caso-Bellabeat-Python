@@ -42,12 +42,12 @@ Os dados foram agregados (`groupby`) para encontrar padrões consistentes no vol
   * O pico de atividade ocorre à **Quarta-feira** (média de 7.510 passos).
   * A **Terça-feira** apresenta uma quebra abrupta e significativa, registando o volume mais baixo de atividade da semana (média de 4.914 passos), configurando um dia de alto sedentarismo para a amostra.
 
-### 5. Partilhar (Share)
-Para comunicar estas descobertas de forma clara à equipa executiva, foi desenvolvida uma visualização de dados com recurso às bibliotecas `Matplotlib` e `Seaborn`.
+## 5. Partilhar (Share)
+Para comunicar estas descobertas de forma clara à equipa executiva, foi desenvolvida uma visualização de dados com recurso às bibliotecas Matplotlib e Seaborn.
 
-> **![Gráfico Média de Passos](output.png)**
-> 
-> **
+![Gráfico Média de Passos](output.png)
+
+A visualização em gráfico de barras evidencia claramente a disparidade entre a terça-feira e os restantes dias da semana, validando a necessidade de uma intervenção de produto.
 
 A visualização em gráfico de barras evidencia claramente a disparidade entre a terça-feira e os restantes dias da semana, validando a necessidade de uma intervenção de produto.
 
